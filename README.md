@@ -7,4 +7,4 @@ algoritma adımları şu şekildedir.
 2)intersection kullanarak kesişimlerini buldum,
 3)uninon() kullanarakta birleşimlerini aldım.
 4)veri tabanına ekledim
-5)%0.5'ten küçükse metinler birbirinden farklı,büyükse benzerdir şeklinde ekrana çıktı veriyor.
+
